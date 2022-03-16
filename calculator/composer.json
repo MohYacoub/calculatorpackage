@@ -1,0 +1,17 @@
+{
+    "name": "devdojo/calculator",
+    "description": "calculator smart",
+    "autoload": {
+        "psr-4": {
+            "Devdojo\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohammad yacoub",
+            "email": "mohammad-yacoub@bitbucket.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
